@@ -1,0 +1,2 @@
+import("MASS","stringr","rjags", "coda","foreach", "doParallel", "random", "parallel")
+export("Split.CH","Collapse.CH","Lifespan","Maker.CH","MARK.MCMC","Simulate.CH")
